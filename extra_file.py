@@ -6,6 +6,8 @@
 def fun_with_booleans():
 	goal_scored = True
 	year_of_current_world_cup = 2014
+	host_nation = "Brazil"
+	projected_winner = "Germany"
 	if goal_scored:
 		print "GOOOOOOOOOOOOOLLLLL" #prints gol if a goal is scored
 
