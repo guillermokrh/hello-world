@@ -1,3 +1,10 @@
 Hello this is a new readme file that I have created
 on the hello-world git folder in my directory.
+
+I am modifying this text file so that I can get further practice with vim and github!
+
+Starting to look like those hackers that I find in Starbucks with their terminals and lattes. 
+
+I am changing a currently tracked file so that I can see what that looks like on github.  I am excited to continue my CleryDart app soon.
+
 trying to reber if i remember basic vim commands
