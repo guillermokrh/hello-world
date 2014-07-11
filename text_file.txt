@@ -1,0 +1,3 @@
+Hello this is a new readme file that I have created
+on the hello-world git folder in my directory.
+trying to reber if i remember basic vim commands
