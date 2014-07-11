@@ -7,5 +7,10 @@ def fun_with_booleans():
 	goal_scored = True
 	if goal_scored:
 		print "GOOOOOOOOOOOOOLLLLL" #prints gol if a goal is scored
+
+
+
 #Calls Function
-fun_with_booleans()
+fun_with_booleans() 
+fun_with_booleans() #going to call function twice just so I have something
+                    # that I can stage
