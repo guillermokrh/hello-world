@@ -14,7 +14,7 @@ int main(){
 
 	int i;
 	int greatest_num = 10; //print numbers from 0 to highest num
-	for (i = 0; i <= greatest_num; i++){
+	for (i = 0; i < greatest_num; i++){
 		printf("%i\n", i+1);
 	}
 	
