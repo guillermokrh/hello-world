@@ -11,5 +11,6 @@ int main() {
 	printf("By: Los Campesinos!\n");
 	
 	printf("La, la, la, la, la, la.\n");
+	printf("La, la, la, la, la.\n");
 	return 0;
 }
