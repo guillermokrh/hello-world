@@ -16,6 +16,7 @@ int main() {
 	*/
 
 	//more concise way of writing program
+	printf("by guillermokrh\n");
 	char letter;
 	for (letter = 'A'; letter <= 'Z'; letter++){
 		printf("%c\n", letter);
